@@ -22,7 +22,7 @@ export default function Home() {
         <a href="https://www.linkedin.com/in/surajshanbhag" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex items-center space-x-1">
   <Linkedin size={20} /> <span>LinkedIn</span>
 </a>
-<a href="https://twitter.com/surajshanbhag88" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex items-center space-x-1">
+<a href="https://twitter.com/surajshanbhag88npm" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex items-center space-x-1">
   <Twitter size={20} /> <span>Twitter</span>
 </a>
 <a href="https://github.com/shanbhagsuraj" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex items-center space-x-1">
